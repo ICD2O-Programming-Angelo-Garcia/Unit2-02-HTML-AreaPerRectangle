@@ -1,4 +1,5 @@
 /* Created by: Angelo Garcia
+<<<<<<< HEAD
 * Created on: march 2025
 * This file contains the CSS for index.html
 */
@@ -70,4 +71,24 @@ div.footer {
     line-height: 12pt;
     text-align: center;
     padding-top: 30pt;
+=======
+* Created on: March 2025
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-01-HTML-JS-HelloWorld
+*/
+
+body {
+    background-color: LightGreen;
+}
+
+h1 {
+    background-color: #e5a861;
+    color: hsl(0, 0%, 0%);
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: #fff700;
+>>>>>>> c3690c35e34d0f7f07ec5d443ca57d4cd9a82dc7
 }
